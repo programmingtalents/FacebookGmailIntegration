@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocialMediaIntegration</string>
+    <string name="facebook_app_id">YOUR KEY HERE</string>
+</resources>

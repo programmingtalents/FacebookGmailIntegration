@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092164639288",
+    "project_id": "socialmediaintegration-8c66f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092164639288:android:2d8fd0b186d68296",
+        "android_client_info": {
+          "package_name": "com.programmingtalents.socialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10921646s392d88-e4b5fit9hjk2b46fj4gi3v4rsflcjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR KEY SHOULD BE HERE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
